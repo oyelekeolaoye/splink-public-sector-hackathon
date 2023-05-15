@@ -8,4 +8,4 @@ A hackathon for Entity Resolution using Splink (by MoJ) on Azure Databricks done
 
 2. Walk through the *end-to-end example* notebook in the `notebooks` directory to understand how Splink works.
 
-3. Use the *exercise* notebook as a starting point for your own work. Consider exploring different parameters or feature engineering to understand the impact on linking. Visualise the results using Python, R, or the built in visualisation tools in Databricks Notebooks or Databricks SQL.
+3. Use the *exercise* notebook as a starting point for your own work. Consider exploring different parameters or feature engineering to understand the impact on linking. Visualise the results using Python, R, or the built in visualisation tools in Databricks Notebooks or Databricks SQL.wwwwdwww
